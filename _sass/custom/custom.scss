@@ -60,8 +60,8 @@
 //$body-text-color: $grey-dk-100;
 //$body-heading-color: $grey-dk-300;
 //$search-result-preview-color: $grey-dk-000;
-//$nav-child-link-color: $grey-dk-100;
-$link-color: #0E4C63;
+$nav-child-link-color: #0F2394;
+$link-color: #3D55DC;
 $btn-primary-color: #0e4c63;
 //$base-button-color: #f7f7f7;
 
@@ -112,7 +112,7 @@ $btn-primary-color: #0e4c63;
 //$gutter-spacing-sm: $sp-4;
 //$nav-width: 264px;
 //$nav-width-md: 248px;
-$content-width: 900px;
+$content-width: 800px;
 //$header-height: 60px;
 $search-results-width: 600px;
 
@@ -127,3 +127,7 @@ $search-results-width: 600px;
 //lg: $content-width + $nav-width,
 //xl: 1400px
 //);
+
+.main-nav-title{
+    font-weight: 700;
+}

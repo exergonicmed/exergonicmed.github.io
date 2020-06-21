@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Biochemistry
-nav_order: 2
+nav_order: 1
 has_children: true
-permalink: biochemistry
+permalink: topics/biochemistry
 ---
 
 # Biochemistry
